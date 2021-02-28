@@ -12,7 +12,7 @@ A simplistic project that promises to deliver a random, robust password
 
 Set password parameters
 
-  •Length 
+  • Length 
   
-  •Filter specific characters 
+  • Filter specific characters 
 
