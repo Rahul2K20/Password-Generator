@@ -2,13 +2,13 @@
 
 This is a simple password Generator project that allows a user to acquire a rondom password
 
-** *Features* ** 
+***Features* **
 
-Generate Random Password (up to 8 characters)
+*Generate Random Password (up to 8 characters)
 
-Copy-paste to clipboard
+*Copy-paste to clipboard
 
-** *Future Works* **
+***Future Works* **
 
 Set password parameters 
 
